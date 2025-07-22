@@ -1,3 +1,15 @@
+# :information_source: Sobre o repositório # 
+
+Este projeto foi realizado para o Bootcamp WEX - End to End Engineering.
+
+Além da implementação inicial, na pasta [DesafioFundamentos](#desafio-de-projeto), também foi realizada uma implementação do projeto com personalização própria. 
+
+Nesta implementação, na pasta [estacionamento_proprio](#estacionamento_proprio), além de um Model para estacionamento, também foi criado um para veículos. A criação deste Model permitiu colocar parâmetros de entrada e saída, assim armazenando as movimentações anteriores e os valores associados. Ao invés de utilizar uma lista de strings, foi utilizada uma lista com um objeto específico para veículos, armazenando os dados mencionados acima. 
+
+Também foram implementadas validações adicionais de entrada de dados.
+
+---
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
